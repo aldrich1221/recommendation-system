@@ -3,4 +3,4 @@
 
 Dataset: Yelp.   
 
-The following features are used to build models
+The following features are used to build recommendation system models
