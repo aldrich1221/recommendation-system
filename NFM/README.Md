@@ -1,2 +1,2 @@
 Result
-[!image](NFM_Compare_Result.png)
+![image](NFM_Compare_Result.png).          
